@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Calin Tataru"
-    description = "Personal blog"
+    description = "walk on my own way"
     githubUsername = "3ar0n"
     accent = "#00AEFF"
     showBorder = true
@@ -28,7 +28,7 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/"
+    url = "/about"
     name = "About"
     weight = 3
 
