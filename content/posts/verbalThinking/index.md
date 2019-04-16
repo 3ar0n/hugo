@@ -1,9 +1,7 @@
 +++
 title =  "Verbal Thinking - 'Đúng việc'"
 date = 2019-04-10
-tags = []
-featured_image = ""
-description = "Đúng việc ở một tổ chức - Nước chảy là nước trong"
+tags = ["book"]
 +++
 
 ## I. Thế nào là đúng việc ở một tổ chức
@@ -24,8 +22,6 @@ description = "Đúng việc ở một tổ chức - Nước chảy là nước 
   + Hành trình đấu tranh giữa "ta" (con người bản năng) và "mình" (con người lương tri)
 + Sống với chính mình
 + Giữ được chính mình
-
-(bla bla bla)
 
 "Làm việc" cũng chỉ là một thể hiện của "làm người" trong công việc mà mình theo đuổi.
 
@@ -82,7 +78,7 @@ Trong xã hội tồn tại đủ 5 loại người này. Vậy thì trong 5 lo�
 
 Nói đi cũng phải nói lại, tất cả cũng do sự lựa chọn của mình. Nếu ta là 1 người đam mê, không lẽ bản thân không tìm được 1 môi trường phù hợp với mình hay sao, đâu phải nhất thiết cứ chui đầu vào những môi trường mà mình không muốn.
 
-Muốn làm đúng việc, trước hết ta phải chọn đúng việc, rồi làm đúng chỗ, để từ đó ta mới có thể làm đúng việc, trở thành một con người tự do, tự trị đúng chỗ. Nhưng suy cho cùng, đời không như là mơ, không phải ai cũng có thể làm đúng chỗ, hay gay gắt hơn là không phải ai cũng đủ dũng cảm tìm đúng chỗ để làm. Khi đó, việc dung hòa giữa yêu cầu, mục đích, lý tưởng của cá nhân với môi trường làm việc của tổ chức là một câu hỏi khó mà chính bản thân ta phải tìm ra được lời giải.
+Muốn làm đúng việc, trước hết ta phải chọn đúng việc, rồi làm đúng chỗ, để từ đó ta mới có thể làm đúng việc, trở thành một con người tự do, tự trị. Nhưng suy cho cùng, đời không như là mơ, không phải ai cũng có thể làm đúng chỗ, hay gay gắt hơn là không phải ai cũng đủ dũng cảm tìm đúng chỗ để làm. Khi đó, việc dung hòa giữa yêu cầu, mục đích, lý tưởng của cá nhân với môi trường làm việc của tổ chức là một câu hỏi khó mà chính bản thân ta phải tìm ra được lời giải.
 
 Giờ hãy cùng nhìn vào một ví dụ cụ thể của bản thân tôi với ngành lập trình (IT).
 

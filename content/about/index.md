@@ -6,7 +6,7 @@ featured_image = "ava.png"
 description = ""
 +++
 
-<center><img src="ava.png" width="100"></center>
+<center><img src="avatar.png" width="100"></center>
 
 + Họ tên đầy đủ: Đặng Quốc Thái
 + Nickname:
