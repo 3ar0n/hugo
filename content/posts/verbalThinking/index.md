@@ -4,8 +4,6 @@ date = 2019-04-10
 tags = ["book"]
 +++
 
-![](http://dungviec.org/getattachment/Chia-se-tu-tac-gia/%C4%90oi-loi-chia-se-tu-tac-gia/sach-1.jpg.aspx)
-
 > "Công việc" của bất kỳ ai trong đời cũng bao gồm Làm người, Làm dân và Làm nghề. Lựa chọn "đúng việc" hay "sai việc" của mỗi người trong từng "công việc" ấy sẽ làm nên cuộc đời họ, cũng như góp phần làm nên gia đình, tổ chức và xã hội mà họ đang sống.
 
 Đấy là một trong những lời được viết trong quyển sách "đúng việc - một góc nhìn về câu chuyện khai minh" của nhà giáo Giản Tư Trung, một quyển sách bàn về "đúng việc" và "sai việc", cũng như chuyện **định nghĩa lại** mọi thứ và **tìm về chân giá trị** cho mọi vấn đề được chọn.
