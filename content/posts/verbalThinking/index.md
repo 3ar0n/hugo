@@ -4,9 +4,11 @@ date = 2019-04-10
 tags = ["book"]
 +++
 
-> "Công việc" của bất kỳ ai trong đời cũng bao gồm Làm người, Làm dân và Làm nghề. Lựa chọn "đúng việc" hay "sai việc" của mỗi người trong từng "công việc" ấy sẽ làm nên cuộc đời họ, cũng như góp phần làm nên gia đình, tổ chức và xã hội mà họ đang sống.
+![cover](images/DungViec.jpg)
 
-Đấy là một trong những lời được viết trong quyển sách "đúng việc - một góc nhìn về câu chuyện khai minh" của nhà giáo Giản Tư Trung, một quyển sách bàn về "đúng việc" và "sai việc", cũng như chuyện **định nghĩa lại** mọi thứ và **tìm về chân giá trị** cho mọi vấn đề được chọn.
+> *"Công việc" của bất kỳ ai trong đời cũng bao gồm Làm người, Làm dân và Làm nghề. Lựa chọn "đúng việc" hay "sai việc" của mỗi người trong từng "công việc" ấy sẽ làm nên cuộc đời họ, cũng như góp phần làm nên gia đình, tổ chức và xã hội mà họ đang sống.*
+
+Đấy là một trong những lời được viết trong quyển sách **"đúng việc - một góc nhìn về câu chuyện khai minh"** của nhà giáo Giản Tư Trung, một quyển sách bàn về "đúng việc" và "sai việc", cũng như chuyện **định nghĩa lại** mọi thứ và **tìm về chân giá trị** cho mọi vấn đề được chọn.
 
 ## I. Đúng việc trong một tổ chức
 
@@ -56,9 +58,9 @@ Chọn đúng việc đã không dễ, làm đúng việc lại càng khó bội
 
 Cùng nhau xem xét thông qua câu chuyện "cây nhà lá vườn" do tác giả Giản Tư Trung "sáng tác":
 
-> Hãy thử tưởng tượng bạn đang làm việc cho một công ty. Bạn xứng đáng với mức lương 10 đồng, nhưng công ty của bạn chỉ trả cho bạn mức lương 5 đồng. Trong tình huống đó, nếu không thích thì bạn sẽ không nhận và như vậy không có gì phải bàn tiếp. Nhưng nếu bạn vẫn nhận làm thì bạn sẽ làm việc theo kiểu... mấy đồng?
+> *Hãy thử tưởng tượng bạn đang làm việc cho một công ty. Bạn xứng đáng với mức lương 10 đồng, nhưng công ty của bạn chỉ trả cho bạn mức lương 5 đồng. Trong tình huống đó, nếu không thích thì bạn sẽ không nhận và như vậy không có gì phải bàn tiếp. Nhưng nếu bạn vẫn nhận làm thì bạn sẽ làm việc theo kiểu... mấy đồng?*
 >
-> Kiểu 5 đồng, kiểu 10 đồng, kiểu 15 đồng, kiểu 2,5 đồng, kiểu 1,5 đồng. Bạn sẽ chọn phương án nào?
+> *Kiểu 5 đồng, kiểu 10 đồng, kiểu 15 đồng, kiểu 2,5 đồng, kiểu 1,5 đồng. Bạn sẽ chọn phương án nào?*
 
 Tác giả đã đưa ra những con đường cụ thể cho từng đáp án:
 
@@ -88,7 +90,7 @@ Nước chảy là nước động, nước động là nước sống, nước 
 
 ### 1/ Tổ chức
 
-> "Cứ để người tài đi, đi càng nhiều càng tốt. Khi ra đi, họ sẽ chính là người quảng bá cho doanh nghiệp mình, từ đó mình có thể thu hút được lực lượng lao động trẻ, có năng lực."
+> *"Cứ để người tài đi, đi càng nhiều càng tốt. Khi ra đi, họ sẽ chính là người quảng bá cho doanh nghiệp mình, từ đó mình có thể thu hút được lực lượng lao động trẻ, có năng lực."*
 
 Đó có lẽ một trong những suy nghĩ của những người đứng đầu bất kì tổ chức nào.
 
@@ -107,4 +109,4 @@ Tổ chức không muốn mất người tài, nhưng không thể giữ thì kh
 
 Có như thế, xã hội mới có thể tiến thêm một, thậm chí nhiều bước đến một xã hội văn minh hơn.
 
-Nước có chảy thì nước mới trong.
+**Nước có chảy thì nước mới trong.**
