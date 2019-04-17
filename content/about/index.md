@@ -1,12 +1,13 @@
 +++
 title =  "About"
-date = 2019-04-12
+date = 2019-04-04
 tags = []
 featured_image = "ava.png"
 description = ""
 +++
 
-<center><img src="avatar.png" width="100"></center>
+<center><img src="ava.png" width="100"></center>
+![](images/avatar.png)
 
 + Họ tên đầy đủ: Đặng Quốc Thái
 + Nickname:
